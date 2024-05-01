@@ -1,4 +1,3 @@
-# Sem título
 
 # ****WhatsApp Message Forwarding Automation****
 
